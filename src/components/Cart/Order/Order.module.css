@@ -1,0 +1,9 @@
+.order {
+  z-index: 15;
+  left: calc(50% - 10rem);
+  width: auto;
+}
+
+.backdrop {
+  z-index: 15;
+}
